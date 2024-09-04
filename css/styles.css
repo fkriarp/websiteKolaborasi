@@ -10952,6 +10952,8 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  background-attachment: fixed;
+  /* backdrop-filter: ; */
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
